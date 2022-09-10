@@ -1,0 +1,4 @@
+﻿  AVLTree.cpp
+C:\Users\aevir\source\repos\AVLTree\AVLTree\AVLTree.cpp(670): warning C4715: 'Znajdz_Przedzial': not all control paths return a value
+C:\Users\aevir\source\repos\AVLTree\AVLTree\AVLTree.cpp(609): warning C4715: 'findAVL': not all control paths return a value
+  AVLTree.vcxproj -> C:\Users\aevir\source\repos\AVLTree\Debug\AVLTree.exe

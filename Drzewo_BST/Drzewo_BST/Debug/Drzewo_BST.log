@@ -1,0 +1,5 @@
+﻿  Drzewo_BST.cpp
+C:\Users\aevir\source\repos\Drzewo_BST\Drzewo_BST\Drzewo_BST.cpp(34,9): warning C4101: 'dane': unreferenced local variable
+C:\Users\aevir\source\repos\Drzewo_BST\Drzewo_BST\Drzewo_BST.cpp(35,9): warning C4101: 'n': unreferenced local variable
+C:\Users\aevir\source\repos\Drzewo_BST\Drzewo_BST\Drzewo_BST.cpp(196): warning C4715: 'Znajdz_Dane': not all control paths return a value
+  Drzewo_BST.vcxproj -> C:\Users\aevir\source\repos\Drzewo_BST\Debug\Drzewo_BST.exe
