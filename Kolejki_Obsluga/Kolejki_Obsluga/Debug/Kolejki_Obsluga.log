@@ -1,0 +1,4 @@
+﻿  Kolejki_Obsluga.cpp
+C:\Users\aevir\source\repos\Kolejki_Obsluga\Kolejki_Obsluga\Kolejki_Obsluga.cpp(193,11): warning C4477: 'scanf_s' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'bool *'
+C:\Users\aevir\source\repos\Kolejki_Obsluga\Kolejki_Obsluga\Kolejki_Obsluga.cpp(42,6): warning C4101: 'out_liczba': unreferenced local variable
+  Kolejki_Obsluga.vcxproj -> C:\Users\aevir\source\repos\Kolejki_Obsluga\Debug\Kolejki_Obsluga.exe
